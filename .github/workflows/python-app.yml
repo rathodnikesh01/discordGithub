@@ -27,4 +27,4 @@ jobs:
     
     - name: Test file
       run: |
-        pytest.py
+        AutomateRelease.py
